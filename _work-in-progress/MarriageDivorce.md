@@ -1,5 +1,5 @@
 ---
-title: "optimal TAx Pr"
+title: "Optimal Tax Progressivity with Endogenous Marriage and Divorce"
 collection: work-in-progress
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'

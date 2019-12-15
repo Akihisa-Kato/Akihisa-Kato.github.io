@@ -22,6 +22,10 @@ Publication
 Work in Progress
 ======
 
+<!-->
 {% for post in site.work-in-progress reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->
+1. Optimal Tax Progressivity with Endogenous Marriage and Divorce
+1. Goldrush (with Jose Victor Rios-Rull)
