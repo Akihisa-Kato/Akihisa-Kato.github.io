@@ -9,6 +9,7 @@ paperurl: 'https://www.aeaweb.org/articles?id=10.1257/pandp.20181060'
 citation: 'Akihisa Kato, Wataru Miyamoto, Thuy Lan Nguyen, and Dmitriy Sergeyev. (2018). &quot;AEA PP .&quot; <i>Journal 1</i>. 1(1).'
 ---
 
+We use the narrative approach to identify tax changes unrelated to current economic conditions and estimate the effects of these changes on macroeconomic variables during and outside of the zero lower bound period in Japan. We find little difference in the output responses across the two periods. However, the responses of aggregate consumption, investment, and imports are significantly different in the two periods within the first few quarters. 
 
 [Download paper here](https://www.aeaweb.org/articles?id=10.1257/pandp.20181060)
 
