@@ -21,9 +21,6 @@ Publication
 
 Work in Progress
 ======
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 {% for post in site.work-in-progress reversed %}
   {% include archive-single.html %}
