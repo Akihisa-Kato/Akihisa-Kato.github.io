@@ -30,7 +30,7 @@ Research Assistant
 ======
 * 2013 University of Tokyo, for Professor Kosuke Aoki (UTokyo) and Nao Sudo (Bank of Kapan)
 * 2013-2014 University of Tokyo, for Professor Kosuke Aoki (UTokyo)
-* 2015-2016 University of Tokyo, for Wataru Miyamoto (Bank of Canada), Thuy Lan Nguyen (Santa Clara U), and Dmitriy Sergeyev (Bocconi U)
+* 2015-2016 University of Tokyo, for Wataru Miyamoto (Bank of Canada), Professor Thuy Lan Nguyen (Santa Clara U), and Professor Dmitriy Sergeyev (Bocconi U)
 * 2015-2016 University of Tokyo, for Professor Kosuke Aoki (UTokyo) and Nao Sudo (Bank of Kapan)
 
 
