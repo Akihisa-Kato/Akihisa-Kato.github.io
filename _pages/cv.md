@@ -9,51 +9,55 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education:
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics, University of Tokyo, 2013
+* M.A. in Economics, University of Tokyo, 2015
+* Ph.D in Economics, University of Pennsylvania, 2021 (Expected)
 
-Work experience
+Research Fields:
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Macroeconomics, Inequality, Fiscal Policy, Family Economics
   
-Skills
+Teaching
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Microeconomic Theory (Graduate Level): Fall 2017, Fall 2018, Fall 2019, TA for Professor Steven Matthews
+* Macro-Modelling (Advanced Level): Summer 2019, TA for Professor Jose Victor Rios-Rull
+* Intermediate Microeconomics: Spring 2018
+* International Financial Policy (Graduate Level): Winter 2015 (at University of Tokyo), TA for Professor Kennichi Ueda
+
+Research Assistant
+======
+* 2013 University of Tokyo, for Professor Kosuke Aoki (UTokyo) and Nao Sudo (Bank of Kapan)
+* 2013-2014 University of Tokyo, for Professor Kosuke Aoki (UTokyo)
+* 2015-2016 University of Tokyo, for Wataru Miyamoto (Bank of Canada), Thuy Lan Nguyen (Santa Clara U), and Dmitriy Sergeyev (Bocconi U)
+* 2015-2016 University of Tokyo, for Professor Kosuke Aoki (UTokyo) and Nao Sudo (Bank of Kapan)
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!-->  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+-->
+Teaching:
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Honors, Scholarships, and Fellowships:
 ======
-* Currently signed in to 43 different slack teams
+* 2017-2020 University Fellowship, University of Pennsylvania
+* 2018-2019 Scholarship, Japan−United States Educational Exchange Promotion Foundation
+* 2016-2017 Scholarship, Fulbright Japan
+* 2016 JSPS Research Fellowship for Young Scientists (DC1)
+* 2016 Grant-in-Aid for JSPS Fellows
+* 2015-2016 Research Funding for Doctoral Student, University of Tokyo
