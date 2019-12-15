@@ -13,7 +13,7 @@ redirect_from:
 ======
 * 氏名: 加藤 明久 (カトウ アキヒサ)
 * 国籍: 日本
-* 連絡先: a [dot] kato [at] sas.upenn.edu
+* 連絡先: a [dot] kato [at] sas [dot] upenn [dot] edu
 
 学歴
 ======
