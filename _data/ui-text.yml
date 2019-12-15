@@ -268,3 +268,42 @@ it-IT:
 
 # Another locale
 # --------------
+# English (default)
+# -----------------
+jp: &DEFAULT_JP
+  page                       : "ページ"
+  pagination_previous        : "戻る"
+  pagination_next            : "次へ"
+  breadcrumb_home_label      : "ホーム"
+  breadcrumb_separator       : "/"
+  toc_label                  : "On This Page"
+  ext_link_label             : "外部リンク"
+  less_than                  : "less than"
+  minute_read                : "minute read"
+  share_on_label             : "シェアする"
+  meta_label                 :
+  tags_label                 : "タグ:"
+  categories_label           : "カテゴリー:"
+  date_label                 : "日時:"
+  comments_label             : "コメントする"
+  comments_title             : "コメント"
+  more_label                 : "続きを読む"
+  related_label              : "こちらもどうぞ"
+  follow_label               : "フォローする:"
+  feed_label                 : "フィード"
+  powered_by                 : "Powered by"
+  website_label              : "Website"
+  email_label                : "Eメール"
+  recent_posts               : "直近の投稿"
+  undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
+  comment_form_info          : "Your email address will not be published. Required fields are marked"
+  comment_form_comment_label : "Comment"
+  comment_form_md_info       : "Markdown is supported."
+  comment_form_name_label    : "名前"
+  comment_form_email_label   : "メールアドレス"
+  comment_form_website_label : "Website (optional)"
+  comment_btn_submit         : "コメントを投稿する"
+  comment_btn_submitted      : "投稿しました"
+  comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
+  comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
+  loading_label              : "Loading..."
