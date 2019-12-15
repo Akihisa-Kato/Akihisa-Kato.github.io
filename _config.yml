@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Akihisa Kato"
 title_separator          : "-"
 name                     : &name "Akihisa Kato"
-description              : &description "I am a PhD student in Economics at the University of Pennsylvania."
+description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a PhD student in Economics at the University of Pennsylvania."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
