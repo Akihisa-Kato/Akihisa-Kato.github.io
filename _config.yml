@@ -83,12 +83,11 @@ author:
   name             : "Akihisa Kato"
   avatar           : "profile.png"
   bio              : "I am a PhD student in Economics at the University of Pennsylvania."
-  location         : "Department of Economics The Ronald O. Perelman Center for Political 
-                      Science and Economics 133 South 36th Street, Office 548 Philadelphia, PA 19104"
+  location         : "Philadelphia, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "a [dot] kato [at] sas [dot] upenn [dot] edu"
+  email            : "a.kato@sas.upenn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -180,6 +179,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  work-in-progress:
     output: true
     permalink: /:collection/:path/
   portfolio:
